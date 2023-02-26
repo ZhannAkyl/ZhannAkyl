@@ -1,6 +1,9 @@
 ### Hi,  I'm Zhanneta, I'm Software QA Automation Engineer from New York, US 💻 🌐 Glad to see you here!
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="1000" height="200"/>
+<img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="1000" height="200"/>
   </div>
+
+### :mailbox:How to find me:<div id="badges"> <a href="https://www.linkedin.com/in/zhanneta-akylbekova-8700ab263">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 
 ####  Languages & Tools:
